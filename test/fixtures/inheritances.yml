@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  inheritance: 1
+  inheritance_name: MyString
+  relationship: 1
+  relationship_sub: 1
+  relationship_text: MyString
+  fetus_check: 1
+  mother_name: MyString
+  postcode: MyString
+  address: MyString
+  address_number: MyString
+  address_building: MyString
+  birthday: 2020-09-20 05:15:20
+
+two:
+  user_id: 1
+  inheritance: 1
+  inheritance_name: MyString
+  relationship: 1
+  relationship_sub: 1
+  relationship_text: MyString
+  fetus_check: 1
+  mother_name: MyString
+  postcode: MyString
+  address: MyString
+  address_number: MyString
+  address_building: MyString
+  birthday: 2020-09-20 05:15:20
